@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.signIn{
+  
+    background: rgb(2,0,36);
+ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(138,150,156,1) 74%, rgba(0,212,255,1) 100%);
+    position:relative;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    width:100%;
+    height:100vh;
+
+
+}
+
+.name{
+    text-align:center;
+    margin-bottom:20px;
+    
+
+}
+h3{
+    color:black;
+    font-size: medium;
+    margin:auto
+}
+.email{
+    text-align:center;
+    margin-bottom:20px
+    
+}
+input{
+    width:20vw;
+    height:50px; 
+    border-radius: 20px;
+    outline: azure;
+    text-align:center
+}
+.password{
+    text-align:center;
+    margin-bottom:20px
+}
+.number{
+    text-align:center;
+    margin-bottom:20px
+}
+.flying{
+    display:flex;
+    padding:25px
+   
+ 
+}
+.btx{
+    margin-left:70px;
+    margin-right:180px;
+
+}
+.btm{
+    margin-left:70px;
+    margin-right:150px;
+}
+.btc{
+    margin-left:80px;
+    margin-right:150px;
+}
+button{
+    color:white;
+    background:rgb(77, 33, 33);
+    width:15vw;
+    height:10vh;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+button:hover{
+    color:black;
+    background:red;
+    width:15vw;
+    height:10vh;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.aps{
+    position:relative;
+    color:white;
+   
+    
+}
+.float{
+    color:red;
+    position:relative;
+
+}
+.float{
+   
+    margin-left:1200px;
+    margin-top:5px;
+    margin-bottom:5px
+
+}
